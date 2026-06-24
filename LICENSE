@@ -1,0 +1,59 @@
+MiS Protocol — Proprietary License
+Copyright © 2026 HsinJhih MI (m1asia). All rights reserved.
+
+This repository and its contents (the "Work") describe the public-facing
+architecture, terminology, and direction of the MiS Protocol. The Work is
+published to establish a public timestamp and a citable record of authorship.
+It is not released as open-source software and is not placed in the public
+domain.
+
+1. Reservation of rights
+   All rights in the Work are reserved by the author. Except as expressly
+   permitted below, no part of the Work may be copied, modified, distributed,
+   redistributed in full, used commercially, or used to create derivative
+   works, without the prior written permission of the author.
+
+2. Permitted without separate permission
+   The following uses are permitted, provided that authorship is attributed to
+   "HsinJhih MI (MiS Protocol)" and a link to the original repository is
+   retained:
+   a. Citing the MiS Protocol in academic, journalistic, or other works.
+   b. Discussing, reviewing, critiquing, or summarizing the publicly released
+      framework and terminology.
+   c. Linking to this repository.
+   d. Quoting short excerpts with attribution to the source.
+   e. Introducing or referencing the Work in articles, videos, newsletters,
+      forums, or social media.
+
+3. Prohibited without prior written permission
+   a. Presenting the framework, in whole or in part, as one's own original
+      work.
+   b. Copying or redistributing the full text and presenting it as one's own.
+   c. Packaging the framework into a commercial product.
+   d. Selling templates, prompts, agent files, workflows, or operational
+      procedures derived from the Work.
+   e. Using any unpublished judgment rules, memory formats, agent files,
+      implementation methods, validation data, or commercial materials.
+   f. Removing attribution, or redirecting credit or traffic away from the
+      original source.
+
+4. Unpublished material
+   This release contains only the public architecture and core definitions.
+   Complete agent files, templates, memory formats, judgment rules, Hard Loop
+   design, Reflective Growth System design, implementation workflows,
+   experimental records, private case data, deployable processes, scoring
+   systems, and validation datasets are NOT included in this release and
+   remain fully reserved. They may be published later under separate research
+   or commercial terms.
+
+5. Fair use
+   Nothing in this license restricts uses permitted by applicable copyright law
+   (such as fair use or fair dealing), including good-faith citation,
+   commentary, criticism, and education.
+
+6. No warranty
+   The Work is provided "as is", without warranty of any kind, express or
+   implied. The author shall not be liable for any claim or damages arising
+   from the use of the Work.
+
+For permission requests, contact the author via the GitHub account: m1asia.
