@@ -727,7 +727,8 @@ Suggested short citation:
 MiS Protocol by HsinJhih MI / m1asia
 ```
 
-Canonical links will be added after the first public release.
+DOI: 10.5281/zenodo.20834109
+https://doi.org/10.5281/zenodo.20834108
 
 ---
 
